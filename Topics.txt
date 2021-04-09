@@ -1,0 +1,3 @@
+1) Print
+2) Variables
+3)Taking Inputs from User and Type Conversion

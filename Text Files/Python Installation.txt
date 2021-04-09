@@ -1,0 +1,23 @@
+#1 Python3 Installation:
+python.org -> Download Python Latest version -> check add python path (windows) (must check) when installing 
+
+
+#2 Install Code Editor (pyCharm)
+
+->download from www.jetbrains.com/pycharm-> community addiotion download
+->install:
+->run: warning->open->do not import settings->i have never used pycharm.ok
+
+
+#3How to create project : 
+
+create new project-> name: HelloWorld
+then setting:expand project interpreter-> base interpreter set : /user/local/bin/python3.7  -> Then create.
+
+
+#4  Your First python programme:
+
+right click helloworld folder->new->Python file-> Name : app.py (so that all python file get py extention)
+Now in app.py :
+
+print('Hellow World') -> click on app.
